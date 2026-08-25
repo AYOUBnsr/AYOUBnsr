@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://github.com/AYOUBnsr/blablaba/blob/main/Green%20and%20White%20Manager%20LinkedIn%20Banner.png?raw=true"  />
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/b51bbe93-340e-4ce4-b4cb-f57ee636bcfa" />
 </div>
 
 ###
