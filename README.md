@@ -55,8 +55,6 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="32" alt="linux" />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="32" alt="kali linux" />
-  <img width="6" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python" />
   <img width="6" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="sql" />
